@@ -13,5 +13,3 @@ createRoot(document.getElementById("root")).render(
     </PersistGate>
   </Provider>
 );
-
-//hey, How are you? kjsndkasnd
