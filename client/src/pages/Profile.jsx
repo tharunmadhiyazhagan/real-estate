@@ -9,6 +9,7 @@ export default function Profile() {
       <h1 className="text-3xl font-semibold text-center my-7">Profile</h1>
       <form className="flex flex-col gap-4">
         <input type="file" ref={fileRef} hidden accept="image/*" />
+        // check
         <img
           onClick={() => fileRef.current.click()}
           src={currentUser.avatar}
