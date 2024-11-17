@@ -4,27 +4,27 @@ export default function About() {
   return (
     <div className="py-20 px-4 max-w-6xl mx-auto">
       <h1 className="text-3xl font-bold mb-4 text-slate-800">
-        About Iconic Construction
+        About Tinku Properties
       </h1>
       <p className="mb-4 text-slate-700">
-        Sahand Estate is a leading real estate agency that specializes in
-        helping clients buy, sell, and rent properties in the most desirable
-        neighborhoods. Our team of experienced agents is dedicated to providing
-        exceptional service and making the buying and selling process as smooth
-        as possible.
+        Tinku Properties is a premier real estate agency specializing in buying,
+        selling, and renting properties in sought-after neighborhoods. Our team
+        of seasoned professionals is committed to delivering exceptional
+        service, ensuring your real estate journey is seamless and stress-free.
       </p>
       <p className="mb-4 text-slate-700">
-        Our mission is to help our clients achieve their real estate goals by
-        providing expert advice, personalized service, and a deep understanding
-        of the local market. Whether you are looking to buy, sell, or rent a
-        property, we are here to help you every step of the way.
+        At Tinku Properties, our mission is to help clients achieve their real
+        estate aspirations by offering expert guidance, personalized attention,
+        and an in-depth understanding of the local market. Whether you're
+        searching for your dream home, selling your property, or looking for a
+        rental, we are here to guide you every step of the way.
       </p>
       <p className="mb-4 text-slate-700">
-        Our team of agents has a wealth of experience and knowledge in the real
-        estate industry, and we are committed to providing the highest level of
-        service to our clients. We believe that buying or selling a property
-        should be an exciting and rewarding experience, and we are dedicated to
-        making that a reality for each and every one of our clients.
+        With years of experience and industry expertise, our agents are
+        dedicated to providing outstanding service tailored to your unique
+        needs. We believe that buying, selling, or renting a property should be
+        a fulfilling and rewarding experience, and we strive to make that a
+        reality for every client.
       </p>
     </div>
   );
